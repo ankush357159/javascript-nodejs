@@ -1,5 +1,23 @@
 {
   "dependencies": {
-    "prompt-sync": "^4.2.0"
-  }
+    "prompt-sync": "^4.2.0",
+    "yargs": "^17.1.1"
+  },
+  "name": "javascript-nodejs",
+  "version": "1.0.0",
+  "description": "Basic nodejs examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankush357159/javascript-nodejs.git"
+  },
+  "author": "Ankush",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankush357159/javascript-nodejs/issues"
+  },
+  "homepage": "https://github.com/ankush357159/javascript-nodejs#readme"
 }
